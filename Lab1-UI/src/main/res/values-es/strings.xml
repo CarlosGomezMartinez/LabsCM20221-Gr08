@@ -16,8 +16,14 @@
         <item>Universidad</item>
         <item>Otro</item>
     </string-array>
-    <string name="text_button_next">Siguiente</string>
+    <string name="text_button_next1">Siguiente</string>
     <string name="image_gender">image_gender</string>
     <string name="image_calendar">image_calendar</string>
     <string name="image_school">image_school</string>
+    <string name="text_phone">Teléfono</string>
+    <string name="text_email">Correo electrónico</string>
+    <string name="text_country">Pais</string>
+    <string name="text_city">Ciudad</string>
+    <string name="text_address">Dirección</string>
+    <string name="text_button_next2">Siguiente</string>
 </resources>
