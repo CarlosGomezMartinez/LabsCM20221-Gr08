@@ -24,6 +24,8 @@
             app:endIconMode="clear_text"
             app:helperText="@string/text_helper"
             app:helperTextTextColor="#FF0000"
+            app:counterEnabled="true"
+            app:counterMaxLength="10"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
@@ -31,6 +33,7 @@
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/textInput_phone"
+                android:maxLength="10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="phone" />
