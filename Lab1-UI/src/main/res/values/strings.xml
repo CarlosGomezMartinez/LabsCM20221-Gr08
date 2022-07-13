@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Labs20221-Gr08</string>
+    <string-array name="grade_spinner_options">
+        <item>Elementary</item>
+        <item>Secondary</item>
+        <item>University</item>
+        <item>Other</item>
+    </string-array>
 </resources>
