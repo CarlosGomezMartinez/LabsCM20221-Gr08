@@ -15,5 +15,8 @@
         <item>University</item>
         <item>Other</item>
     </string-array>
+    <string name="image_gender">image_gender</string>
+    <string name="image_calendar">image_calendar</string>
+    <string name="image_school">image_school</string>
     <string name="text_button_next">Next</string>
 </resources>

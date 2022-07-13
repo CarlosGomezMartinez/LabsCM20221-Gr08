@@ -71,7 +71,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="56dp"
-            android:contentDescription="image_gender"
+            android:contentDescription="@string/image_gender"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textInputLayout_lastname"
             app:srcCompat="@drawable/ic_gender" />
@@ -107,7 +107,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="48dp"
-            android:contentDescription="image_calendar"
+            android:contentDescription="@string/image_calendar"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/image_gender"
             app:srcCompat="@drawable/ic_calendar" />
@@ -142,7 +142,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="40dp"
-            android:contentDescription="image_school"
+            android:contentDescription="@string/image_school"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/picker_date_birth"
             app:srcCompat="@drawable/ic_school" />

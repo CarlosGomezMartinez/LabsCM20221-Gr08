@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs20221-Gr08</string>
+    <string name="personal_data_activity">Información Personal</string>
+    <string name="contact_data_activity">Información de Contacto</string>
+    <string name="text_first_name">Nombres</string>
+    <string name="text_last_name">Apellidos</string>
+    <string name="text_gender">Género:</string>
+    <string name="text_radio_male">Masculino</string>
+    <string name="text_radio_female">Femenino</string>
+    <string name="text_date_birth">Fecha de nacimiento:</string>
+    <string name="text_school_grade">Grado de escolaridad</string>
+    <string-array name="grade_spinner_options">
+        <item>Primaria</item>
+        <item>Bachillerato</item>
+        <item>Universidad</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="text_button_next">Siguiente</string>
+    <string name="image_gender">image_gender</string>
+    <string name="image_calendar">image_calendar</string>
+    <string name="image_school">image_school</string>
+</resources>
