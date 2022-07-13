@@ -1,9 +1,19 @@
 <resources>
     <string name="app_name">Labs20221-Gr08</string>
+    <string name="personal_data_activity">Personal Information</string>
+    <string name="contact_data_activity">Contact Information</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_gender">Gender:</string>
+    <string name="text_radio_male">Male</string>
+    <string name="text_radio_female">Female</string>
+    <string name="text_date_birth">Date of Birth:</string>
+    <string name="text_school_grade">School Grade:</string>
     <string-array name="grade_spinner_options">
         <item>Elementary</item>
         <item>Secondary</item>
         <item>University</item>
         <item>Other</item>
     </string-array>
+    <string name="text_button_next">Next</string>
 </resources>
